@@ -1,0 +1,5 @@
+allowBuilds:
+  unrs-resolver: set this to true or false
+minimumReleaseAgeExclude:
+  - cn@0.3.2
+  - react-resizable-panels@4.13.1
